@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Mobile Developer Lab</title>
+  <desc id="desc">Independent developer. Tools to build, create, and ship.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b35"/><stop offset="1" stop-color="#172d46"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#818cf8"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
+  </defs>
+  <style>
+    .orb { animation: drift 12s ease-in-out infinite alternate; }
+    .line { animation: glow 6s ease-in-out infinite alternate; }
+    @keyframes drift { from { transform: translate(0,0); } to { transform: translate(-24px,14px); } }
+    @keyframes glow { from { opacity: .35; } to { opacity: .85; } }
+    @media (prefers-reduced-motion: reduce) { .orb, .line { animation: none; } }
+  </style>
+  <rect width="1200" height="280" rx="20" fill="url(#bg)"/>
+  <circle class="orb" cx="1080" cy="55" r="170" fill="#818cf8" opacity=".07"/>
+  <circle class="orb" cx="1120" cy="240" r="150" fill="#5eead4" opacity=".06"/>
+  <path class="line" d="M890 0V65L965 140V220L1025 280M950 0V45L1025 120V200L1105 280" stroke="url(#accent)" stroke-width="1.5" fill="none" opacity=".5"/>
+  <rect x="64" y="58" width="36" height="4" rx="2" fill="url(#accent)"/>
+  <text x="64" y="104" fill="#a5b4fc" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3">INDEPENDENT DEVELOPER</text>
+  <text x="60" y="164" fill="#f1f5f9" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="-1">Mobile Developer Lab</text>
+  <text x="64" y="210" fill="#bac9da" font-family="Arial, Helvetica, sans-serif" font-size="21">Tools to build, create, and ship.</text>
+</svg>
