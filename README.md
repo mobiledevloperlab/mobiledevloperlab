@@ -27,11 +27,6 @@ Previously at Huawei · Southwest Jiaotong University graduate
 
 [Open the demo video](https://github.com/user-attachments/assets/df7de976-e743-415d-9bd1-df396a647e10)
 
-<p>
-  <a href="https://play.google.com/store/apps/details?id=com.nimote.nimotecode"><img src="./assets/google-play-badge.svg" alt="Get NimoteCode on Google Play" width="172" height="42" /></a>
-  <a href="https://apps.apple.com/app/nimotecode-ssh-client-ide/id6776158253"><img src="./assets/app-store-badge.svg" alt="Download NimoteCode on the App Store" width="172" height="42" /></a>
-</p>
-
 [Website](https://nimotecode.com) · [All downloads](https://nimotecode.com/download) · [Docs and examples](https://github.com/mobiledevloperlab/nimotecode)
 
 *Free to start. NimoteCode is commercial and closed source; its public repository contains documentation and examples. AI requires your own provider key and may incur provider charges.*
