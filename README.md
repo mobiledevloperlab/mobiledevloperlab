@@ -25,8 +25,6 @@ Previously at Huawei · Southwest Jiaotong University graduate
   <video src="https://github.com/user-attachments/assets/df7de976-e743-415d-9bd1-df396a647e10" controls muted playsinline width="420"></video>
 </div>
 
-[Open the demo video](https://github.com/user-attachments/assets/df7de976-e743-415d-9bd1-df396a647e10)
-
 [Website](https://nimotecode.com) · [All downloads](https://nimotecode.com/download) · [Docs and examples](https://github.com/mobiledevloperlab/nimotecode)
 
 *Free to start. NimoteCode is commercial and closed source; its public repository contains documentation and examples. AI requires your own provider key and may incur provider charges.*
