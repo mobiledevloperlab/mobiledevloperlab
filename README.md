@@ -21,11 +21,11 @@ Previously at Huawei · Southwest Jiaotong University graduate
 
 **A mobile IDE for Android, iPhone, and iPad.** Edit local or remote projects, use an SSH terminal, review Git changes, and work with AI using your own provider. The built-in agent and Git write workflows are available through Early Access.
 
-<p>
-  <a href="https://nimotecode.com">
-    <img src="./assets/nimotecode-framed.svg" alt="NimoteCode running on phone and tablet with an AI assistant, remote files, and a Python editor" width="100%" />
-  </a>
-</p>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/df7de976-e743-415d-9bd1-df396a647e10" controls muted playsinline width="420"></video>
+</div>
+
+[Open the demo video](https://github.com/user-attachments/assets/df7de976-e743-415d-9bd1-df396a647e10)
 
 <p>
   <a href="https://play.google.com/store/apps/details?id=com.nimote.nimotecode"><img src="./assets/google-play-badge.svg" alt="Get NimoteCode on Google Play" width="172" height="42" /></a>
