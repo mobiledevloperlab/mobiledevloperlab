@@ -22,8 +22,9 @@ Previously at Huawei · Southwest Jiaotong University graduate
 **A mobile IDE for Android, iPhone, and iPad.** Edit local or remote projects, use an SSH terminal, review Git changes, and work with AI using your own provider. The built-in agent and Git write workflows are available through Early Access.
 
 <div align="center">
-  <video src="[https://github.com/user-attachments/assets/14c8bab8-ae16-4e15-8a8a-926ef2c747f4](https://github.com/user-attachments/assets/14c8bab8-ae16-4e15-8a8a-926ef2c747f4)" controls muted playsinline width="420"></video>
+  <video src="https://github.com/user-attachments/assets/14c8bab8-ae16-4e15-8a8a-926ef2c747f4" controls muted playsinline width="420"></video>
 </div>
+
 
 [Website](https://nimotecode.com) · [All downloads](https://nimotecode.com/download) · [Docs and examples](https://github.com/mobiledevloperlab/nimotecode)
 
